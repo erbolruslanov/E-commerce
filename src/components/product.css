@@ -1,0 +1,13 @@
+.cart-buttons span{
+    margin: 0 20px;
+}
+.cart-buttons button{
+    padding: 0 30px;
+    border: none;
+    background: coral;
+    color: white;
+    font-size: 20px;
+}
+.product h2{
+    height: 40px;
+}

@@ -1,0 +1,15 @@
+.product-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.product-details img{
+   width: 80%;
+    border: 1px solid black;
+    box-shadow: 0 0 5px black;
+}
+.cart-buttons{
+    padding: 20px 0;
+}

@@ -1,0 +1,10 @@
+.product{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.product img{
+    height: 200px;
+    object-fit: contain;
+}

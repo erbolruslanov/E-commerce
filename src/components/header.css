@@ -1,0 +1,8 @@
+header{
+    background: coral;
+    padding: 35px 0;
+    margin-bottom: 30px;
+}
+.top-nav a:not(:last-child){
+    margin-right: 24px;
+}
